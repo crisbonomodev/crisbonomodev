@@ -22,8 +22,8 @@ My name is Cristian Bonomo, I am 32 years old, from Buenos Aires, Argentina.
 👯 I’m looking to collaborate on meaningful and fun projects.
 
 
-![Badges](https://img.shields.io/badge/%20-HTML5-orange) ![Badges](https://img.shields.io/badge/%20-CSS-blue) ![Badges](https://img.shields.io/badge/%20-Javascript-yellow?logo=javascript) ![Badges](https://img.shields.io/badge/%20-React-9cf)  ![Badges](https://img.shields.io/badge/%20-C%23-yellowgreen)
-![Badges](https://img.shields.io/badge/%20-NodeJS-green) ![Badges](https://img.shields.io/badge/%20-MongoDB-brightgreen)
+![Badges](https://img.shields.io/badge/%20-HTML5-lightgrey?logo=html5) ![Badges](https://img.shields.io/badge/%20-CSS-lightgrey?logo=css3) ![Badges](https://img.shields.io/badge/%20-Javascript-lightgrey?logo=javascript) ![Badges](https://img.shields.io/badge/%20-React-lightgrey?logo=react)  ![Badges](https://img.shields.io/badge/%20-C%23-lightgrey?logo=dotnet)
+![Badges](https://img.shields.io/badge/%20-NodeJS-green) ![Badges](https://img.shields.io/badge/%20-MongoDB-lightgrey?logo=mongodb)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonomocristian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
