@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Cristian Bonomo, I am 32 years old, from Buenos Aires, Argentina.
+
+🔭 I’m currently working at Digital Payments as a backend developer for the FPay digital wallet project.
+
+https://img.shields.io/badge/Backend-NodeJS-brightgreen
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonomocristian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonomocristian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
