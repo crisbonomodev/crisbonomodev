@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 My name is Cristian Bonomo, I am 32 years old, from Buenos Aires, Argentina.
 
-🔭 I’m currently working at Digital Payments as a backend developer for the FPay digital wallet project.
-🌱 I’m currently learning Typescript, React Native and AWS.
+🔭 I’m currently working at Pomelo as a backend developer.
+🌱 I’m currently learning Golang and AWS.
 👯 I’m looking to collaborate on meaningful and fun projects.
 
 
