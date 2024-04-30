@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Cristian Bonomo, I am 32 years old, from Buenos Aires, Argentina.
+My name is Cristian Bonomo, I am 35 years old, from Buenos Aires, Argentina.
 
 🔭 I’m currently working at Pomelo as a backend developer.
 🌱 I’m currently learning Golang and AWS.
